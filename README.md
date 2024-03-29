@@ -9,7 +9,7 @@ Optionally, include a brief introduction or tagline.
 -------------------------------------------------------------------------------
 Insert an image of yourself.
 Write a short bio highlighting your skills and experience.
--------------------------------------------------------------------------------
+
 **Skills Section:**
 -------------------------------------------------------------------------------
 List your key skills or areas of expertise.
